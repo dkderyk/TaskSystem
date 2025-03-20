@@ -24,9 +24,10 @@ namespace TaskSystem
 
             // Registro do repositório no DI
             builder.Services.AddScoped<IUsuarioRepositorio, UsuarioRepositorio>();
+            builder.Services.AddScoped<ITarefaRepositorio, TarefaRepositorio>();
 
             var app = builder.Build();
-
+            
             // Configure o pipeline de requisição HTTP
             if (app.Environment.IsDevelopment())
             {

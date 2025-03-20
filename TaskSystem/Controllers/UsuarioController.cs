@@ -1,4 +1,8 @@
-﻿//using Microsoft.AspNetCore.Http;
+﻿//Controller de "Usuario": Responsavel por receber as requisiçoes do cliente e direcionar 
+//o tipo da requisição para o tipo de chamada de método, dependendo do que o cliente está pedindo.
+//Então retornar a resposta vinda desse método para essa requisição
+
+//using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using TaskSystem.Models;
 using TaskSystem.Repositories.Interface;
