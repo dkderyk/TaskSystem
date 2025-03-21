@@ -1,6 +1,6 @@
 # TaskSystem
 
-![GitHub](https://https://github.com/dkderyk/TaskSystem)
+![GitHub]([https://https://github.com/dkderyk/TaskSystem](https://img.shields.io/github/license/dkderyk/TaskSystem))
 
 O **TaskSystem** é um sistema de gerenciamento de tarefas desenvolvido em .NET 8, utilizando Entity Framework e SQL Server. Projetado para simplificar a organização e acompanhamento de atividades individuais ou em equipe, oferece uma solução robusta e escalável para gestão de produtividade.
 
